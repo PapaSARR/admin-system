@@ -1,4 +1,4 @@
-# Projet administration sytème et réseau
+# Projet administration système et réseau
 Mise en place d'un système de gestion d’utilisateurs et de groupes, basé sur MySQL et sur un annuaire LDAP
 
 ## Liste des fonctionnalités développées:
